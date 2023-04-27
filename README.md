@@ -16,3 +16,5 @@ Github Link- https://satyamtask.netlify.app/
 # Project name-Nested Object 
 Hoisted Link-https://cosmocloudsatyam.netlify.app/
 Github Link- https://github.com/saty953/CosmoCloudAssignmentBySatyam
+
+# current project details out of my resume.
