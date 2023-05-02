@@ -34,4 +34,4 @@ Hoisted Link-https://cosmocloudsatyam.netlify.app/
 
 Github Link- https://github.com/saty953/CosmoCloudAssignmentBySatyam
 
-# current project details that not mentioned in my resume 
+ 
