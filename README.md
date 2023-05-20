@@ -18160,7 +18160,7 @@ If you put `setTimeout` and `setInterval` methods inside the try clause and an e
 setTimeout(() => {
    try {
       console.log('try block');
-      throw new Error(`An exception is thrown`)
+      throw new Error(`An exception is  thrown`)
    } catch(err) {
       console.log('Error: ', err);
    }
